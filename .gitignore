@@ -1,0 +1,10 @@
+.env
+.env.example
+.env.sample
+.env.template
+# Ignore node_modules folder
+/node_modules/
+# Ignore VSCode settings folder
+/.vscode/
+# Ignore Python cache folder
+/__pycache__/
